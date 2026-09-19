@@ -1,0 +1,13 @@
+"""
+<Unix commands>
+code: execute a file, or make a file
+ls: list of files
+cp: copy a file
+mv: move a file
+rm: remove a file -> y: yes, n: no
+mkdir: make a directory(folder)
+cd: move to a directory what we want, or starting point of directory
+..: move to parent directory
+rmdir: remove a directory(folder)
+clear: clear the terminal window, or "Ctrl + L"
+"""
